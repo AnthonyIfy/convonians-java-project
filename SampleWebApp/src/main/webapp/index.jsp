@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Welcome to my New java project this year 2023</title>
+    <title>TERRAFORM NINJAS ROCKS! #Cloud Convo Academy 2025</title>
   </head>
   <body bgcolor="#777799">
     <h1>Hello from Anthony Osu aka itquickfix  </h1>
