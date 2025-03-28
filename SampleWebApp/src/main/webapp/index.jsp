@@ -2,7 +2,7 @@
   <head>
     <title>TERRAFORM NINJAS ROCKS! #Cloud Convo Academy 2025</title>
   </head>
-  <body bgcolor="#777799">
+  <body bgcolor="#777749">
     <h1>Hello from Anthony Osu aka itquickfix  </h1>
     <!--Form declaration. Must have an action attribute -->
         <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
